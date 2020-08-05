@@ -1,4 +1,4 @@
-package ler_arquivo;
+/* package ler_arquivo;
 
 import com.thoughtworks.xstream.annotations.XStreamAlias;
 import java.io.Serializable;
@@ -165,3 +165,4 @@ public class SISMOB implements Serializable {
 
    
 }
+*/

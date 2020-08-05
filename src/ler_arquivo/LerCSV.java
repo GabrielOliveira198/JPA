@@ -1,4 +1,4 @@
-package ler_arquivo;
+/* package ler_arquivo;
 
 import java.io.BufferedReader;
 import java.io.FileNotFoundException;
@@ -81,3 +81,4 @@ public class LerCSV {
         throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
     }
 }
+*/
